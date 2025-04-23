@@ -43,7 +43,7 @@ The selected members of the "1 TeraBit Club" are (as of 03/06/2025):
 * HKIX: https://www.hkix.net/hkix/stat/aggt/hkix-aggregate.html
 * IIX Jakarta: https://nms.iix.net.id/
 * INEX: https://www.inex.ie/ixp/statistics/ixp
-* IX.br Fortalzea: https://ix.br/trafego/agregado/ce
+* IX.br Fortaleza: https://ix.br/trafego/agregado/ce
 * IX.br São Paulo: https://ix.br/trafego/agregado/sp
 * IX.br Rio de Janeiro: https://ix.br/trafego/agregado/rj
 * JKT-IX: https://ixpmanager.jktix.com/statistics/ixp
